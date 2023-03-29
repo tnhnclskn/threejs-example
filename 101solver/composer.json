@@ -1,0 +1,17 @@
+{
+    "name": "tnhnclskn/okeysolver",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tnhnclskn\\OkeySolver\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tunahan Caliskan",
+            "email": "mail@tunahancaliskan.com"
+        }
+    ],
+    "require": {}
+}
